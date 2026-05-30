@@ -70,7 +70,7 @@ My approach is heavily **data-centric**, leveraging data analysis tools and AI a
 
 ### 📊 GitHub Analysis & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkilaniya1-pixel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sahil's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkilaniya1-pixel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sahil's GitHub Stats" />
 </p>
 
 <p align="center">
