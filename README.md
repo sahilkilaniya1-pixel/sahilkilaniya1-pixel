@@ -76,7 +76,7 @@ I am currently completing an intensive, rigorous 500+ days learning roadmap via 
 
 | Curriculum / Playlist | Core Focus & Milestones | Repository / Proof of Work |
 | :--- | :--- | :--- |
-| 🐍 **100 Days of Python** | OOPs, Automation, Scripting Fundamentals | [📂 View Code](#) *(Apni Repo Link Dalein)* |
+| 🐍 **100 Days of Python** | OOPs, Automation, Scripting Fundamentals | [📂 View Code](#)  |
 | 📊 **100 Days of Machine Learning** | Math behind ML, Regression, Classification, Scikit-Learn | [📂 View Code](#) |
 | 🧠 **100 Days of Deep Learning** | ANN, CNN, RNN architectures & Deep Learning frameworks | [📂 View Code](#) |
 | 🦜 **GenAI using LangChain** | RAG pipelines, LLM prompt engineering, chains & memory | [📂 View Code](#) |
