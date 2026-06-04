@@ -46,7 +46,7 @@ My approach is heavily **data-centric**, leveraging data analysis tools and AI a
 #### 📊 Data Science, Machine Learning & Agents
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234aa35a.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&angle=0)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
 
@@ -74,15 +74,15 @@ My approach is heavily **data-centric**, leveraging data analysis tools and AI a
 ### 🏗️ Learning Engine & Proof of Work (CampusX Curriculum)
 I am currently completing an intensive, rigorous 500+ days learning roadmap via **CampusX** to blend Data Science, Machine Learning, and cutting-edge Agentic AI with my core security tech stack.
 
-| Curriculum / Playlist | Core Focus & Milestones  ||
+| Curriculum / Playlist | Core Focus & Milestones | Repository / Proof of Work |
 | :--- | :--- | :--- |
-| 🐍 **100 Days of Python** | OOPs, Automation, Scripting Fundamentals|
-| 📊 **100 Days of Machine Learning** | Math behind ML, Regression, Classification, Scikit-Learn|
-| 🧠 **100 Days of Deep Learning** | ANN, CNN, RNN architectures & Deep Learning frameworks|
-| 🦜 **GenAI using LangChain** | RAG pipelines, LLM prompt engineering, chains & memory|
-| 🤖 **Agentic AI using LangGraph** | Multi-agent systems, stateful graphs, self-correcting agents|
-| 🌐 **Model Context Protocol (MCP)** | Building custom MCP servers to give LLMs secure tool access|
-| ⚡ **FastAPI for Machine Learning** | Productionizing ML models, high-performance async APIs|
+| 🐍 **100 Days of Python** | OOPs, Automation, Scripting Fundamentals | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
+| 📊 **100 Days of Machine Learning** | Math behind ML, Regression, Classification, Scikit-Learn | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
+| 🧠 **100 Days of Deep Learning** | ANN, CNN, RNN architectures & Deep Learning frameworks | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
+| 🦜 **GenAI using LangChain** | RAG pipelines, LLM prompt engineering, chains & memory | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
+| 🤖 **Agentic AI using LangGraph** | Multi-agent systems, stateful graphs, self-correcting agents | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
+| 🌐 **Model Context Protocol (MCP)** | Building custom MCP servers to give LLMs secure tool access | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
+| ⚡ **FastAPI for Machine Learning** | Productionizing ML models, high-performance async APIs | [📁 View Code](./yahan_apni_file_ka_path_daalein) |
 
 ---
 
