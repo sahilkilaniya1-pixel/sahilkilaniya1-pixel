@@ -76,13 +76,13 @@ I am currently completing an intensive, rigorous 500+ days learning roadmap via 
 
 | Curriculum / Playlist | Core Focus & Milestones | Repository / Proof of Work |
 | :--- | :--- | :--- |
-| 🐍 **100 Days of Python** | OOPs, Automation, Scripting Fundamentals | [📂 View Code](#)  |
-| 📊 **100 Days of Machine Learning** | Math behind ML, Regression, Classification, Scikit-Learn | [📂 View Code](#) |
-| 🧠 **100 Days of Deep Learning** | ANN, CNN, RNN architectures & Deep Learning frameworks | [📂 View Code](#) |
-| 🦜 **GenAI using LangChain** | RAG pipelines, LLM prompt engineering, chains & memory | [📂 View Code](#) |
-| 🤖 **Agentic AI using LangGraph** | Multi-agent systems, stateful graphs, self-correcting agents | [📂 View Code](#) |
-| 🌐 **Model Context Protocol (MCP)** | Building custom MCP servers to give LLMs secure tool access | [📂 View Code](#) |
-| ⚡ **FastAPI for Machine Learning** | Productionizing ML models, high-performance async APIs | [📂 View Code](#) |
+| 🐍 **100 Days of Python** | OOPs, Automation, Scripting Fundamentals |
+| 📊 **100 Days of Machine Learning** | Math behind ML, Regression, Classification, Scikit-Learn |
+| 🧠 **100 Days of Deep Learning** | ANN, CNN, RNN architectures & Deep Learning frameworks |
+| 🦜 **GenAI using LangChain** | RAG pipelines, LLM prompt engineering, chains & memory |
+| 🤖 **Agentic AI using LangGraph** | Multi-agent systems, stateful graphs, self-correcting agents |
+| 🌐 **Model Context Protocol (MCP)** | Building custom MCP servers to give LLMs secure tool access |
+| ⚡ **FastAPI for Machine Learning** | Productionizing ML models, high-performance async APIs |
 
 ---
 
