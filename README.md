@@ -84,7 +84,6 @@ My approach is heavily **data-centric and agent-driven**, leveraging advanced AI
 
 ---
 
-### 🏗️ Engineering Roadmap & Proof of Work (CampusX Curriculum)
 Mapping advanced engineering concepts directly to targeted **Cyber Security & Automation** mechanics.
 
 ## 🚀 Technical Expertise & Core Topics
