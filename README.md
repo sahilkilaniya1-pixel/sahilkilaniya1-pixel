@@ -87,41 +87,47 @@ My approach is heavily **data-centric and agent-driven**, leveraging advanced AI
 ### 🏗️ Engineering Roadmap & Proof of Work (CampusX Curriculum)
 Mapping advanced engineering concepts directly to targeted **Cyber Security & Automation** mechanics.
 
-#### 🔥 Category 1: Generative AI & Security Automation
-| Core Focus Topic | Target Security Application | Architectural Integration | Repository |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Claude_Code-7C2D12?style=flat-square&logo=anthropic&logoColor=white" /> **Agentic Coding** | **Autonomous Source Code Auditing** | Building automated loops to check codebase vulnerabilities and push safe patches. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/LangGraph-003366?style=flat-square&logo=ai&logoColor=white" /> **Agentic AI Workflow** | **Stateful Recon Automation** | Designing self-correcting multi-agent bug bounty recon engines. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" /> **GenAI Orchestration** | **Automated Exploit Execution** | Connecting enterprise security scripts with remote APIs safely. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/RAG_Systems-4F46E5?style=flat-square&logo=databricks&logoColor=white" /> **Retrieval-Augmented Gen** | **Local Exploit Knowledge Base** | Grounding private LLMs locally over severe OWASP documentation & zero-day sets. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/MCP_Protocol-312E81?style=flat-square&logo=server&logoColor=white" /> **Model Context Protocol** | **Isolated Execution Environments** | Constructing secure host interfaces for LLM-to-terminal execution. | [📁 Codebase](./) |
+## 🚀 Technical Expertise & Core Topics
 
-#### 🛡️ Category 2: Data Science for Cyber Security (Malware & Threat Detection)
-| Core Focus Topic | Target Security Application | Architectural Integration | Repository |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> **FastAPI Engineering** | **High-Throughput Scanner APIs** | Exposing asynchronously protected endpoints for high-speed custom tooling. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> **Deep Learning** | **Malware Behavior Analysis** | Deploying deep neural layers to process raw logs for network anomaly spikes. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> **Image Processing** | **Phishing Vector Matchers** | Calculating visual similarities of fake pages and automated captcha processing. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/NLP_Log_Analysis-0284C7?style=flat-square&logo=cognitive&logoColor=white" /> **Natural Language Processing** | **Payload Firewalls & Injection Scanners** | Parsing unstructured command text to classify semantic prompt injection traps. | [📁 Codebase](./) |
+### 🔥 Category 1: Generative AI & Security Automation
+*Using cutting-edge AI agents and frameworks to automate source code reviews, penetration testing, and private security assistants.*
 
-#### 🛠️ Category 3: Base Fundamentals & Scripting (Strong Foundations)
-| Core Focus Topic | Target Security Application | Architectural Integration | Repository |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Git_&_GitHub-181717?style=flat-square&logo=github&logoColor=white" /> **Version Control** | **Secure Supply Chain Management** | Analyzing and vetting open-source binaries (`Subfinder`/`Nuclei`) before pipeline usage. | [📁 Codebase](./) |
-| <img src="https://img.shields.io/badge/Python_Core-3776AB?style=flat-square&logo=python&logoColor=white" /> **Advanced Scripting** | **Custom Exploit Engineering** | Writing cleanly structured, scalable Object-Oriented exploit scripts. | [📁 Codebase](./) |
+| Topic | Tech Stack Badge |
+| :--- | :--- |
+| **Agentic Coding (Claude Code)** | ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-7352BF?style=for-the-badge&logo=anthropic&logoColor=white) |
+| **Agentic AI (LangGraph)** | ![LangGraph](https://img.shields.io/badge/LangGraph%20Agents-003366?style=for-the-badge&logo=ai&logoColor=white) |
+| **Generative AI Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) |
+| **Retrieval-Augmented Generation** | ![RAG Architecture](https://img.shields.io/badge/RAG%20Sec%20Assistant-FF5722?style=for-the-badge&logo=databricks&logoColor=white) |
+| **Model Context Protocol (MCP)** | ![MCP](https://img.shields.io/badge/MCP%20Secure%20Connect-4CAF50?style=for-the-badge&logo=connection&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analysis & Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahilkilaniya1-pixel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sahil's GitHub Stats" />
-</p>
+### 🛡️ Category 2: Data Science for Cyber Security
+*Applying machine learning, deep learning, and advanced analytics for malware detection, log analysis, and automated pattern recognition.*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkilaniya1-pixel&theme=radical" alt="Sahil's GitHub Streak" />
-</p>
+| Topic | Tech Stack Badge |
+| :--- | :--- |
+| **Secure API Design** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) |
+| **Practical Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| **Visual Security & Automation** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) |
+| **Natural Language Processing** | ![NLP Log Analysis](https://img.shields.io/badge/NLP%20Analytics-007ACC?style=for-the-badge&logo=cognitive&logoColor=white) |
 
 ---
+
+### ⚡ Category 3: Base Fundamentals & Scripting
+*The backbone of secure software development, automation scripts, exploit writing, and version control.*
+
+| Technology | Tech Stack Badge |
+| :--- | :--- |
+| **Security Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Version Control & Recon** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+## 📈 Current Projects & Focus
+- 🤖 Building AI Agent-driven wrappers for vulnerability scanning automation.
+- 🔍 Designing local RAG pipelines trained on exploit codebases and OWASP documentation.
+- ⚙️ Developing secure backend scripts and APIs with tight input validation.
 
 ### 🤝 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/sahil-ab938a3b7](https://www.linkedin.com/in/sahil-ab938a3b7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
