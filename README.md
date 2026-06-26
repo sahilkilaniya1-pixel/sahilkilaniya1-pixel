@@ -88,9 +88,13 @@ My approach is heavily **data-centric and agent-driven**, leveraging advanced AI
 
 ---
 
-## 🐍 Contribution Snake
+---
+
+## 📊 GitHub Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkilaniya1-pixel&theme=radical" alt="GitHub Contributions" />
 </p>
+
+<br clear="both">
 
 <br clear="both">
